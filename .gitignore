@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BuiderParameter/obj
+/BuiderParameter/bin/Debug/net8.0
+/Builder/bin/Debug/net6.0
+/Builder/obj
+/BuilderFunctional/bin/Debug/net8.0
+/BuilderFunctional/obj
+/BuilderFunctionalGeneric/bin/Debug/net8.0
+/BuilderFunctionalGeneric/obj
+/BuilderRecursiveGenerics/bin/Debug/net8.0
+/BuilderRecursiveGenerics/obj
+/CodeBuilderExercise/bin/Debug/net8.0
+/CodeBuilderExercise/obj
+/examples
+/Liskov/.vs
+/Liskov/bin/Debug/net6.0
+/Liskov/obj
+/StpepWizeBuilder/bin/Debug/net8.0
+/StpepWizeBuilder/obj
+/BuilderPerson/bin/Debug/net8.0
+/BuilderPerson/obj
